@@ -7,8 +7,9 @@ A documentation of my internship experience at G Element, detailing the projects
 
 ## About the company
 ## Technologies Used
-[![Javascript][Javascript]][Javascript-url]
+
 [![Vue][Vue.js]][Vue-url]
+[![Node][Node.js]][Node-url]
 [![Express][Express.js]][Express-url]
 [![Postgres][Postgres]][Postgres-url]
 
@@ -18,8 +19,8 @@ A documentation of my internship experience at G Element, detailing the projects
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mattisong
-[Javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Node.js]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/en
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
