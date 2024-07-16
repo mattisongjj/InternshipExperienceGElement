@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 # Internship Experience at G Element
-A documentation of my internship experience at G Element, detailing the projects I worked on, the skills I acquired, and the overall learning journey.
+A documentation of my internship experience at G Element, detailing the projects I worked on, the technologies I used, and the overall learning journey
 <details>
   <summary>Table Of Contents</summary>
 </details>
