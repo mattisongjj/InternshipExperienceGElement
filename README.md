@@ -5,16 +5,29 @@
 A documentation of my internship experience at G Element, detailing the projects I worked on, the technologies I used, and the overall learning journey
 <details>
   <summary>Table Of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-company">About The Company</a>
+    </li>
+  </ol>
 </details>
 
-## About the company
+## About the company 
+<a name="about-the-company"></a>
 <div align='center'>
   <img src='https://media.licdn.com/dms/image/C510BAQFD6MBQJv6hXQ/company-logo_200_200/0/1630609389310/g_element_pte_ltd_logo?e=1729123200&v=beta&t=9_jPr2U_SjA2ujkiXlxG84Y8VCra_r0hyoA_sZf9_qY' alt='G Element Logo' />
 </div>
 <br>
-Headquartered in Singapore and operating across the APAC region, G Element is a regional, award-winning tech company providing digital twin solutions that make buildings and cities smart, autonomous and sustainable. Their main product is an award-winning digital twin platform [Senfi](Senfi-url) that combines 3D BIM data, artificial intelligence, robotics and real-time sensor data to continually provide building managers with full insights into their buildings/cities.
+<p>
+  Headquartered in Singapore and operating across the APAC region, G Element is a regional, award-winning tech company providing digital twin solutions that make buildings and cities smart, autonomous and sustainable.
+</p>
+<p>
+  Their main product is an award-winning digital twin platform <a href="https://www.senfi.io/main/">Senfi</a> that combines 3D BIM data, artificial intelligence, robotics and real-time sensor data to continually provide building managers with full insights into their buildings/cities.
+</p>
 
-Read more about the company [here](GElement-url)
+<p>
+  Read more about the company <a href="https://www.gelement.com/company/our-profile/">here</a>
+</p>
 
 ## Technologies I Used
 
@@ -22,6 +35,7 @@ Read more about the company [here](GElement-url)
 [![Node][Node.js]][Node-url]
 [![Express][Express.js]][Express-url]
 [![Postgres][Postgres]][Postgres-url]
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
 ## Tasks I Worked On
 * Developed a 3D building and site configurator on the [Senfi](Senfi-url) platform, that enables users to seamlessly model 3D buildings and configure various 3D assets, providing a more dynamic platform for real-time customization within 3D environments
