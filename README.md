@@ -13,7 +13,6 @@ A documentation of my internship experience at G Element, detailing the projects
 </details>
 
 ## About the company 
-<a name="about-the-company"></a>
 <div align='center'>
   <img src='https://media.licdn.com/dms/image/C510BAQFD6MBQJv6hXQ/company-logo_200_200/0/1630609389310/g_element_pte_ltd_logo?e=1729123200&v=beta&t=9_jPr2U_SjA2ujkiXlxG84Y8VCra_r0hyoA_sZf9_qY' alt='G Element Logo' />
 </div>
