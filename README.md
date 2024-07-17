@@ -9,6 +9,15 @@ A documentation of my internship experience at G Element, detailing the projects
     <li>
       <a href="#about-the-company">About The Company</a>
     </li>
+    <li>
+      <a href="#technologies-i-used">Technologies I Used</a>
+    </li>
+    <li>
+      <a href="#tasks-i-worked-on">Tasks I Worked On</a>
+    </li>
+    <li>
+      <a href="#reflections">Reflections</a>
+    </li>
   </ol>
 </details>
 
