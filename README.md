@@ -16,7 +16,7 @@ Headquartered in Singapore and operating across the APAC region, G Element is a 
 
 Read more about the company [here](GElement-url)
 
-## Technologies Used
+## Technologies I Used
 
 [![Vue][Vue.js]][Vue-url]
 [![Node][Node.js]][Node-url]
@@ -30,6 +30,7 @@ Read more about the company [here](GElement-url)
 * Authored comprehensive API documentation for external API endpoints implemented, enabling other developers to efficiently utilize them and increasing overall productivity
 
 ## Reflections
+👷‍♂️ Work in progress...
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
