@@ -12,13 +12,13 @@ A short write up of my fullstack developer internship experience at G Element de
       <a href="#about-the-company">About The Company</a>
     </li>
     <li>
-      <a href="#technologies-i-used">Technologies I Used</a>
+      <a href="#technologies-and-tools-i-used">Technologies I Used</a>
     </li>
     <li>
       <a href="#tasks-i-worked-on">Tasks I Worked On</a>
     </li>
     <li>
-      <a href="#reflections">Practices</a>
+      <a href="#practices">Practices</a>
     </li>
   </ol>
 </details>
@@ -59,19 +59,19 @@ A short write up of my fullstack developer internship experience at G Element de
 <p><strong>Outcome:</strong> By the end of my internship, I had integrated a single viewer for each site and allowed users to configure their 3D assets without having to reload each time, significantly reducing load times and enhancing user experience. This integration streamlined the process, allowing for real-time updates and configurations, which greatly improved the system's efficiency and user satisfaction, enhancing building managers' ability to respond to real-time events.</p>
 
 <div align="center" style=" padding: 5px;">
-    <img src="./images/siteconfigurator.png" alt="3D Configurator Screenshot" style="width:90%;">
+    <img src="./images/siteconfigurator.png" alt="3D Configurator Screenshot">
     <div class="caption"><em>Screenshot of the 3D Building and Site Configurator</em></div>
 </div>
 
 #### Before and After Integration:
 
 <div align="center" style=" padding: 5px; margin-top: 10px;">
-    <img src="./images/Before.gif" alt="Before Integration" style="width:90%;">
+    <img src="./images/Before.gif" alt="Before Integration">
     <div class="caption"><em>Before Integration</em></div>
 </div>
 
 <div align="center" style=" padding: 5px; margin-top: 10px;">
-    <img src="./images/After.gif" alt="After Integration" style="width:90%;">
+    <img src="./images/After.gif" alt="After Integration">
     <div class="caption"><em>After Integration</em></div>
 </div>
 
@@ -93,7 +93,7 @@ A short write up of my fullstack developer internship experience at G Element de
 <p><strong>Code Documentation:</strong> I thoroughly documented my code using inline comments, markdown files, and API documentation tools to make it easy for others to understand and maintain.</p>
 
 <div align="center">
-    <img src="./images/Communication%20Diagram%20for%20asset%20editor%20flow.png" alt="Communication Diagram" style="width:90%;">
+    <img src="./images/Communication%20Diagram%20for%20asset%20editor%20flow.png" alt="Communication Diagram">
     <div class="caption"><em>Example communication diagram for viewer and asset editor flow</em></div>
 </div>
 
