@@ -56,6 +56,11 @@ A short write up of my fullstack developer internship experience at G Element de
 ### Development of a 3D Building and Site Configurator
 
 <p><strong>Description:</strong> I was tasked to develop a 3D building and site configurator that enabled users to seamlessly model 3D buildings and configure various 3D assets, providing a more dynamic platform for real-time customization. This project replaced the previous content management system, which required multiple reloads of 3D sites whenever a user was editing its properties, which was a significant issue for larger sites with thousands of 3D assets.</p>
+<p><strong>Technologies Used:</strong></p>
+<ul>
+    <li>Frontend: Vue.js, Quasar</li>
+    <li>Backend: Node.js, Express.js</li>
+</ul>
 <p><strong>Outcome:</strong> By the end of my internship, I had integrated a single viewer for each site and allowed users to configure their 3D assets without having to reload each time, significantly reducing load times and enhancing user experience. This integration streamlined the process, allowing for real-time updates and configurations, which greatly improved the system's efficiency and user satisfaction, enhancing building managers' ability to respond to real-time events.</p>
 
 <div align="center" style=" padding: 5px;">
@@ -84,7 +89,7 @@ A short write up of my fullstack developer internship experience at G Element de
     <li>Database: PostgreSQL</li>
     <li>Tools: Postman for API testing</li>
 </ul>
-<p><strong>Outcome:</strong> I designed and created RESTful APIs using Node.js, Express.js, and PostgreSQL, utilizing the Joi library for validation checking. This ensured data integrity and seamless integration with the frontend. This enhancement made the APIs much more versatile and significantly increased developer productivity.</p>
+<p><strong>Outcome:</strong> I designed and created RESTful APIs using Node.js, Express.js, and PostgreSQL, utilizing the <a href="https://www.npmjs.com/package/joi">Joi</a> library for validation checking. This ensured data integrity and seamless integration with the frontend. This enhancement made the APIs much more versatile and significantly increased developer productivity.</p>
 
 ## Practices
 
