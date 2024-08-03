@@ -1,8 +1,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Internship Experience at G Element
-**Note: This is still a WIP as I am still working here!**
+
 <br>
-A documentation of my internship experience at G Element, detailing the projects I worked on, the technologies I used, and the overall learning journey
+A short write up of my fullstack developer internship experience at G Element detailing the technologies I used, the tasks I worked on and more
+
 <details>
   <summary>Table Of Contents</summary>
   <ol>
@@ -16,12 +18,13 @@ A documentation of my internship experience at G Element, detailing the projects
       <a href="#tasks-i-worked-on">Tasks I Worked On</a>
     </li>
     <li>
-      <a href="#reflections">Reflections</a>
+      <a href="#reflections">Practices</a>
     </li>
   </ol>
 </details>
 
-## About the company 
+## About the company
+
 <div align='center'>
   <img src='https://media.licdn.com/dms/image/C510BAQFD6MBQJv6hXQ/company-logo_200_200/0/1630609389310/g_element_pte_ltd_logo?e=1729123200&v=beta&t=9_jPr2U_SjA2ujkiXlxG84Y8VCra_r0hyoA_sZf9_qY' alt='G Element Logo' />
 </div>
@@ -37,24 +40,65 @@ A documentation of my internship experience at G Element, detailing the projects
   Read more about the company <a href="https://www.gelement.com/company/our-profile/">here</a>
 </p>
 
-## Technologies I Used
+## Technologies and Tools I Used
 
 [![Vue][Vue.js]][Vue-url]
 [![Node][Node.js]][Node-url]
 [![Express][Express.js]][Express-url]
 [![Postgres][Postgres]][Postgres-url]
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+<img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" alt="Quasar">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 
 ## Tasks I Worked On
-* Developed a 3D building and site configurator on the [Senfi](Senfi-url) platform, that enables users to seamlessly model 3D buildings and configure various 3D assets, providing a more dynamic platform for real-time customization within 3D environments
-* Integrated content management system functionalities with a 3D viewer into a single application using Vue3, achieving significant reductions in load speeds and increased performance, enhancing overall user experience and efficiency
-* Designed and implemented RESTful APIs using Node.js, Express.js and PostgreSQL, delivering efficient API endpoints with validation checking, ensuring data integrity and seamless integration with frontend
-* Authored comprehensive API documentation for external API endpoints implemented, enabling other developers to efficiently utilize them and increasing overall productivity
 
-## Reflections
-👷‍♂️ Work in progress...
+### Development of a 3D Building and Site Configurator
+
+<p><strong>Description:</strong> I was tasked to develop a 3D building and site configurator that enabled users to seamlessly model 3D buildings and configure various 3D assets, providing a more dynamic platform for real-time customization. This project replaced the previous content management system, which required multiple reloads of 3D sites whenever a user was editing its properties, which was a significant issue for larger sites with thousands of 3D assets.</p>
+<p><strong>Outcome:</strong> By the end of my internship, I had integrated a single viewer for each site and allowed users to configure their 3D assets without having to reload each time, significantly reducing load times and enhancing user experience. This integration streamlined the process, allowing for real-time updates and configurations, which greatly improved the system's efficiency and user satisfaction, enhancing building managers' ability to respond to real-time events.</p>
+
+<div align="center" style=" padding: 5px;">
+    <img src="./images/siteconfigurator.png" alt="3D Configurator Screenshot" style="width:90%;">
+    <div class="caption"><em>Screenshot of the 3D Building and Site Configurator</em></div>
+</div>
+
+#### Before and After Integration:
+
+<div align="center" style=" padding: 5px; margin-top: 10px;">
+    <img src="./images/Before.gif" alt="Before Integration" style="width:90%;">
+    <div class="caption"><em>Before Integration</em></div>
+</div>
+
+<div align="center" style=" padding: 5px; margin-top: 10px;">
+    <img src="./images/After.gif" alt="After Integration" style="width:90%;">
+    <div class="caption"><em>After Integration</em></div>
+</div>
+
+### API Development and Integration
+
+<p><strong>Description:</strong> As part of my work on the 3D site configurator, I was tasked with adding API endpoints to their external APIs to provide a more robust set of endpoints, as the previous projects each used their own internal APIs and the external APIs were quite limited.</p>
+<p><strong>Technologies Used:</strong></p>
+<ul>
+    <li>Backend: Node.js, Express.js</li>
+    <li>Database: PostgreSQL</li>
+    <li>Tools: Postman for API testing</li>
+</ul>
+<p><strong>Outcome:</strong> I designed and created RESTful APIs using Node.js, Express.js, and PostgreSQL, utilizing the Joi library for validation checking. This ensured data integrity and seamless integration with the frontend. This enhancement made the APIs much more versatile and significantly increased developer productivity.</p>
+
+## Practices
+
+<p><strong>Version Control:</strong> I used Git for version control, collaborating with a team of five developers.</p>
+<p><strong>CI/CD:</strong> Followed an established Continuous Integration/Continuous Deployment (CI/CD) pipeline. This automated the testing and deployment processes, ensuring that my code was always in a deployable state.</p>
+<p><strong>Code Documentation:</strong> I thoroughly documented my code using inline comments, markdown files, and API documentation tools to make it easy for others to understand and maintain.</p>
+
+<div align="center">
+    <img src="./images/Communication%20Diagram%20for%20asset%20editor%20flow.png" alt="Communication Diagram" style="width:90%;">
+    <div class="caption"><em>Example communication diagram for viewer and asset editor flow</em></div>
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/mattisong
 [GElement-logo]: https://media.licdn.com/dms/image/C510BAQFD6MBQJv6hXQ/company-logo_200_200/0/1630609389310/g_element_pte_ltd_logo?e=1729123200&v=beta&t=9_jPr2U_SjA2ujkiXlxG84Y8VCra_r0hyoA_sZf9_qY
@@ -68,5 +112,3 @@ A documentation of my internship experience at G Element, detailing the projects
 [Express-url]: https://expressjs.com/
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.postgresql.org/
-
-
