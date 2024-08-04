@@ -55,7 +55,7 @@ A short write up of my fullstack developer internship experience at G Element de
 
 ### Development of a 3D Building and Site Configurator
 
-<p><strong>Description:</strong> I was tasked to develop a 3D building and site configurator that enabled users to seamlessly model 3D buildings and configure various 3D assets, providing a more dynamic platform for real-time customization. This project replaced the previous content management system, which required multiple reloads of 3D sites whenever a user was editing its properties, which was a significant issue for larger sites with thousands of 3D assets.</p>
+<p><strong>Description:</strong> I was tasked to develop a 3D Digital Twin configurator that enabled users to seamlessly model 3D buildings and configure various 3D assets, providing a more dynamic platform for real-time customization. This project replaced the previous content management system, which required multiple reloads of 3D sites whenever a user was editing its properties, which was a significant issue for larger sites with thousands of 3D assets.</p>
 <p><strong>Technologies Used:</strong></p>
 <ul>
     <li>Frontend: Vue.js, Quasar</li>
